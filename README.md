@@ -12,7 +12,7 @@
 Just as Ferdinand Magellan's historic expedition proved that all oceans are interconnected, **MagellansStack** is a 52-week journey to prove that all technology domains are interconnected. This is not just about learning different technologies—it's about discovering the hidden passages that connect Frontend to DevOps, Blockchain to Network Engineering, and Data Science to everything else.
 
 ### 📍 Current Position
-- **Expedition Start Date**: [Your Start Date]
+- **Expedition Start Date**: May 24, 2025
 - **Current Week**: Planning Phase
 - **Last Port**: Software Engineering → Data Engineering
 - **Next Destination**: Full-Stack Mastery
