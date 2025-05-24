@@ -24,9 +24,9 @@ Just as Ferdinand Magellan's historic expedition proved that all oceans are inte
 
 | Domain | Status | Weeks | Key Discoveries | Navigation Notes |
 |---------|---------|--------|-----------------|------------------|
-| 🎨 **Frontend/UI Engineering** | ⚪ Uncharted | 1, 9, 17, 25, 33, 41, 49 | - | Modern interfaces, mobile apps |
-| ⚙️ **Backend/Systems** | ⚪ Uncharted | 2, 10, 18, 26, 34, 42, 50 | - | APIs, microservices, databases |
-| 🚀 **DevOps/Infrastructure** | ⚪ Uncharted | 3, 11, 19, 27, 35, 43, 51 | - | Cloud, containers, CI/CD |
+| 🎨 **Frontend/UI Engineering** | 🟡 Familiar Waters | 1, 9, 17, 25, 33, 41, 49 | - | Modern interfaces, mobile apps |
+| ⚙️ **Backend/Systems** | 🟡 Familiar Waters | 2, 10, 18, 26, 34, 42, 50 | - | APIs, microservices, databases |
+| 🚀 **DevOps/Infrastructure** | 🟡 Familiar Waters | 3, 11, 19, 27, 35, 43, 51 | - | Cloud, containers, CI/CD |
 | 📊 **Data Science/ML** | 🟡 Familiar Waters | 4, 12, 20, 28, 36, 44, 52 | - | Analytics, ML models, pipelines |
 | 🌐 **Network Engineering** | ⚪ Uncharted | 5, 13, 21, 29, 37, 45 | - | Protocols, security, distributed systems |
 | ⛓️ **Blockchain/Web3** | ⚪ Uncharted | 6, 14, 22, 30, 38, 46 | - | Smart contracts, DeFi, NFTs |
