@@ -332,9 +332,9 @@ Track progression from Landlubber → Sailor → Navigator → Captain across al
 
 | Domain | Landlubber | Sailor | Navigator | Captain | Admiral |
 |---------|------------|---------|-----------|---------|---------|
-| Frontend | 🟢 | ⚪ | ⚪ | ⚪ | ⚪ |
-| Backend | 🟢 | ⚪ | ⚪ | ⚪ | ⚪ |
-| DevOps | 🟢 | ⚪ | ⚪ | ⚪ | ⚪ |
+| Frontend | 🟢 | 🟡 | ⚪ | ⚪ | ⚪ |
+| Backend | 🟢 | 🟡 | ⚪ | ⚪ | ⚪ |
+| DevOps | 🟢 | 🟡 | ⚪ | ⚪ | ⚪ |
 | Data Science | 🟢 | 🟡 | ⚪ | ⚪ | ⚪ |
 | Network Eng | 🟢 | ⚪ | ⚪ | ⚪ | ⚪ |
 | Blockchain | 🟢 | ⚪ | ⚪ | ⚪ | ⚪ |
